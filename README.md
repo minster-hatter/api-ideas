@@ -2,10 +2,10 @@
 Some examples of using APIs.
 
 ## Files
-|---- fhrs_api_requests.py
-|---- fhrs_api_urllib.py
-|---- LICENCE
-|---- README.md
+|---- fhrs_api_requests.py<br/>
+|---- fhrs_api_urllib.py<br/>
+|---- LICENCE<br/>
+|---- README.md<br/>
 
 ## Dependencies and Versions
 
